@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi, I'm chenxuan999 👋</h1>
+</div>
 
-<!--
-**chenxuan999/chenxuan999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<!-- 
+## 先写个框架吧
+## About mc
+### 关于我
+ - 是人
 
-Here are some ideas to get you started:
+## My Todo
+ - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+<img src="https://vercel.mudev.eu.org/api?username=chenxuan999&show_icons=true&theme=tokyonight" />
+<p>嘻嘻，什么也没做</p>
+ -->
